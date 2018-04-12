@@ -32,7 +32,7 @@ const size_t   CRYPTONOTE_DISPLAY_DECIMAL_POINT              = 8;
 const uint64_t MINIMUM_FEE                                   = 10000;
 const uint64_t DEFAULT_DUST_THRESHOLD                        = MINIMUM_FEE;
 
-const uint64_t DIFFICULTY_TARGET                             = 50; // seconds
+const uint64_t DIFFICULTY_TARGET                             = 100; // seconds
 const uint64_t EXPECTED_NUMBER_OF_BLOCKS_PER_DAY             = 24 * 60 * 60 / DIFFICULTY_TARGET;
 
 const size_t   DIFFICULTY_WINDOW                             = EXPECTED_NUMBER_OF_BLOCKS_PER_DAY; // blocks
