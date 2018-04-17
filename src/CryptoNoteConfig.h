@@ -65,7 +65,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 const char     CRYPTONOTE_NAME[]                             = "SocialInfluenceCoin";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001e8d4d0bab101029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121010e73d94e0a0910b367aecb21d31f72438123d05769d3e4b3b68e2c282debd359";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
